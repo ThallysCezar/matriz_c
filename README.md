@@ -1,0 +1,2 @@
+### Exercicio do curso de eletrônica, do IFPE.
+<p>Exercício: Faça uma função que recebe uma matriz, as dimensões l (número de linhas) e c (número de colunas) da matriz e retorna a soma dos elementos da diagonal principal da matriz. O cabeçalho deve ser:</p>
